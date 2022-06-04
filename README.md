@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto foi elaborado durante a terceira semana do programa Explorer da [Rocketseat](https://www.rocketseat.com.br/) na primeira parte do stage 03, onde foram abordados os seguintes conceitos:
+O projeto foi elaborado durante as aulas da terceira semana do programa Explorer da [Rocketseat](https://www.rocketseat.com.br/) na primeira parte do stage 03, onde foram abordados os seguintes conceitos:
 
 - Como funcionam os formulários no HTML
 - Agrupamento de campos com `fieldset` e `legend`
